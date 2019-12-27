@@ -1,7 +1,7 @@
-# Salary prediction of Data Scientists based upon a survey
+# Project Course-Introduction to Data Science and Analytics
+## Salary Classification of Data Scientists Community Based upon a survey conducted by Kaggle
 
-## Background:
-
+### Background:
 The dataset provided (mutiplechoiceResponses.csv) contains the survey results provided by Kaggle. The
 survey results from 23860 participants are shown in 395 columns, representing survey questions. Not all
 questions are answered by each participant, and responses contain various data types.
@@ -9,7 +9,7 @@ In the dataset for this project , column Q9 “What is your current yearly compe
 $USD)?” contains the ordinary categorical target variable. Rows with null values or undisclosed salaries
 have been dropped. 
 
-The purpose of this assignment is to
+The purpose of this project is to
 1) understand and explore employment in the data science community, as represented in a survey
 conducted by Kaggle.
 2) train, validate, and tune multi-class ordinary classification problem that can classify, given a set of survey
@@ -52,7 +52,7 @@ select a final optimal model using grid search based on a metric (or metrics) th
 Choosing an optimal model for a given task (comparing multiple classifiers on a specific domain)
 requires selecting performance measure
 
-# 6-Testing and Discussion-
+### 6-Testing and Discussion-
 Use your optimal model to make classifications on the test set. How does your model perform on
 the test set vs. the training set? The overall fit of the model, how to increase the accuracy (test,
 training)? Is it overfitting or underfitting? Why? Plot the distribution.
