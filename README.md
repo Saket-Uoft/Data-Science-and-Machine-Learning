@@ -1,5 +1,6 @@
-# Project Course-Introduction to Data Science and Analytics
-## Salary Classification of Data Scientists Community Based upon a survey conducted by Kaggle
+
+# Project - Salary Classification of Data Scientists 
+### Course-Introduction to Data Science and Analytics
 
 ### Background:
 The dataset provided (mutiplechoiceResponses.csv) contains the survey results provided by Kaggle. The
